@@ -15,6 +15,7 @@
 3. Richte die MongoDB-Verbindung ein:
 
 - Öffne die Datei `app.js`.
+- Ersetze name in der MongoDB-Verbindungszeichenkette durch deinen namen.
 - Ersetze `<password>` in der MongoDB-Verbindungszeichenkette durch das tatsächliche Passwort.
 
 ## Verwendung
