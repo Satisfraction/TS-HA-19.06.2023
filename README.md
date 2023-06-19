@@ -4,7 +4,7 @@
 
 1. Klone das Repository:
 
-```git clone [<repository-url>](https://github.com/Satisfraction/TS-HA-19.06.2023)https://github.com/Satisfraction/TS-HA-19.06.2023```
+```git clone https://github.com/Satisfraction/TS-HA-19.06.2023```
 
 
 2. Installiere die Abhängigkeiten:
