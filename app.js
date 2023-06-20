@@ -7,7 +7,7 @@ const schraubenModel = require('./schraubenModel');
 const app = express();
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://name:<password>@cluster0.ouprey8.mongodb.net/schrauben24?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect('mongodb+srv://mogodb-link', { useNewUrlParser: true, useUnifiedTopology: true })
 .then(() => {
   console.log('MongoDB connected...');    // Konsolenausgabe für den Erfolg
 })
